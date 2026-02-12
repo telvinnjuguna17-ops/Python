@@ -1,5 +1,5 @@
 # Gross salary in variable
-Salary = int(input("Enter Gross Salary:"))
+Salary = float(input("Enter Gross Salary:"))
 if Salary <= 5999 :
     print("Contribution is:Ksh 150.00")
 
